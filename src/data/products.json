@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "description": "A compact wireless mouse with ergonomic design.",
+    "price": 25.99,
+    "inStock": true,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Keyboard",
+    "description": "Mechanical keyboard with RGB lighting and programmable keys.",
+    "price": 79.99,
+    "inStock": false,
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes for everyday training.",
+    "price": 49.99,
+    "inStock": true,
+    "category": "Footwear"
+  },
+  {
+    "id": 4,
+    "name": "Insulated Water Bottle",
+    "description": "Stainless steel bottle that keeps drinks hot or cold for hours.",
+    "price": 19.99,
+    "inStock": true,
+    "category": "Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Smartwatch",
+    "description": "A smartwatch with heart rate monitoring and GPS tracking.",
+    "price": 199.99,
+    "inStock": false,
+    "category": "Wearables"
+  }
+]
